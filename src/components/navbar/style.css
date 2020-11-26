@@ -1,0 +1,19 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+  }
+  .navbar { 
+    background: #263041;
+  }
+  
+  .nav-link, .navbar-brand { 
+    color: #E5E5E5;
+  }
+  
+  .search-div { 
+    margin-left: auto;
+  }
+  
+  .btn { 
+    background-color: lightgrey;
+    margin: 5px;
+  }
